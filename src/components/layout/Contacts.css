@@ -1,0 +1,18 @@
+#Contacts ul {
+    list-style: none;
+    margin: 50px 0 0 0;
+    padding: 0;
+    text-align: center;
+}
+#Contacts ul li {
+    display: inline;
+    margin: 0;
+    padding: 20px;
+}
+#Contacts ul li img {
+    width: 50px;
+}
+#Contacts address {
+    margin: 0;
+    padding: 0;
+}

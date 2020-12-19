@@ -1,0 +1,9 @@
+#Intro {
+    background-color: aquamarine;
+    margin: 0;
+}
+.ImgIntro {
+    max-width: 70%;
+    margin: auto;
+    display: block;
+}

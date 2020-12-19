@@ -1,0 +1,35 @@
+.Section {
+    max-width: 1200px;
+    margin: 80px auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    align-items: center;
+    background-color: white;
+
+}
+h1 {
+    font-family: 'Titillium', sans-serif;
+    font-size: 4.5rem;
+    letter-spacing: -5px;
+    line-height: 80px;
+    margin: 0 0 30px 0;
+
+}
+h2, p {
+    margin: 0;
+    display: block;
+    width: 100%;
+    color: #3a3a3a;
+    font-family: 'Titillium', sans-serif;
+}
+h2 {
+    font-size: 3rem;
+}
+p {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+}
+.Sub {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,14 @@
+#WhereHaveIBeen {
+    background-color: #7bcfff;
+    margin: 0;
+}
+#WhereHaveIBeen img {
+    margin: 0 auto;
+    display: flex;
+    max-width: 100%;
+    filter: grayscale();
+    transition: 300ms;
+}
+#WhereHaveIBeen img:hover {
+    filter: none;
+}

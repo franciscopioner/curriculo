@@ -1,0 +1,10 @@
+p.Testimonial {
+    text-align: center;
+    font-style: italic;
+    width: 80%;
+    margin-left: 10%;
+}
+#Testimonial img {
+    margin: 30px auto;
+    display: block;
+}
