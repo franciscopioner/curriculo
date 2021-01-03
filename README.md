@@ -1,5 +1,7 @@
-#Proposta
-Develop a light and fast aplication, with out style preprocessors or grid systems.
+# Objective
 
-#Used FrameWork 
+Develop a light and fast SPA aplication, with out style preprocessors or grid systems.
+
+## Used FrameWork 
+
 React Js

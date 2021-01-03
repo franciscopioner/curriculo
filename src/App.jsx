@@ -1,14 +1,13 @@
-import './App.css'
 import React, { Component } from 'react';
 
 import Bar from './components/layout/Bar'
-import Intro from './components/layout/Intro'
-import AboutMe from './components/layout/AboutMe'
-import Skills from './components/layout/Skills'
-import Portfolio from './components/layout/Portfolio'
-import WhereHaveIBeen from './components/layout/WhereHaveIBeen'
-import Testimonials from './components/layout/Testimonial'
-import Contacts from './components/layout/Contacts'
+import Intro from './components/layout/intro/Intro'
+import AboutMe from './components/layout/aboutMe/AboutMe'
+import Skills from './components/layout/skills/Skills'
+import Portfolio from './components/layout/portfolio/Portfolio'
+import WhereHaveIBeen from './components/layout/whereIHaveBeen/WhereHaveIBeen'
+import Testimonials from './components/layout/testmonial/Testimonial'
+import Contacts from './components/layout/contacts/Contacts'
 
 
 class App extends Component {

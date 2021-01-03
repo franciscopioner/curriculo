@@ -23,6 +23,12 @@
     line-height: 1.5rem;
 
 }
-.Card ul li:nth-child(2) {
-    margin-bottom: 25px;
+.Card img {
+    display: block;
+    margin: auto;
+}
+.Card p {
+    text-align: center;
+    margin: 10px 0 20px 0;
+    font-weight: bold;
 }
